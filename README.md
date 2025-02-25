@@ -24,20 +24,20 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/appointment-booking-system.git
-   cd appointment-booking-system
+   git clone https://github.com/kalyanRaj92/Appointment-Booking-System.git
+   cd server
    ```
-   2. **Install Dependencies**:
+2. **Install Dependencies**:
    ```bash
    npm install
    ```
-   3. **Set Up Environment Variables**:
+3. **Set Up Environment Variables**:
    ```bash
    MONGODB_URI=your_mongodb_connection_string
    PORT=5000
    ```
-   4. **Run the Application**:
+4. **Run the Application**:
    ```bash
    npm run dev
    ```
-   5. Run the application: `http://localhost:5000.`
+5. Run the application: `http://localhost:5000.`
